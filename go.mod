@@ -1,4 +1,4 @@
-module gosqlutils
+module servicesys/gosqlutils
 
 go 1.14
 

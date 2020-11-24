@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"gosqlutils/query"
-	"gosqlutils/test"
+	"servicesys/gosqlutils/query"
+	"servicesys/gosqlutils/test"
 )
 
 func main() {

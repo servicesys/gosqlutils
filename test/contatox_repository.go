@@ -3,7 +3,8 @@ package test
 import (
 	"fmt"
 	"github.com/jmoiron/sqlx"
-	"gosqlutils/query"
+	"servicesys/gosqlutils/query"
+
 	"strings"
 )
 
